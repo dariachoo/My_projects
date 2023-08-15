@@ -6,7 +6,12 @@
 
 # Контакты:
 https://t.me/dariachoo
+
 dariakuz.net@ya.ru
 
 # Обучение
 ![Сертификат от Карпова РЯ_page-0001](https://github.com/dariachoo/My_projects/assets/140105037/1e5ddf36-dbfc-4d3b-b34f-ed20878df2d0)
+Сертификат доступен по ссылке: https://lab.karpov.courses/certificate/92ce686a-f919-4869-8fe6-9ba3a0ec4e8b/
+
+![stepik-certificate-51562-8de13](https://github.com/dariachoo/My_projects/assets/140105037/910e4d16-ed73-435e-a37e-4c40aa19764c)
+Сертификат доступен по ссылке: https://stepik.org/cert/1570767
